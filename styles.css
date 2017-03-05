@@ -1,7 +1,4 @@
-body{
- background-color: white; /* Цвет фона веб-страницы */
-}
-p {
-
- color: black; /* Цвет текста */
+.centered {
+  left:50%;
+  top:50%;
 }
